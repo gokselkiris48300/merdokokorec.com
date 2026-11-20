@@ -1,0 +1,8 @@
+{
+  "name": "Remix Merdo Kokoreç — QR Menü \u0026 Yönetim",
+  "description": "Merdo Kokoreç için dinamik QR kodlu dijital menü, masa üstü stand tasarımı ve güvenli yönetici fiyat yönetim paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
